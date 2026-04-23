@@ -1,25 +1,105 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Glad welcome👋, I'm Vinicius Augusto</h1>
-<h3 align="center">I'm a passionate systems development student from Brazil</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+# 🧑🏻‍💻 Vinicius da Silva Augusto
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vibe2006&label=Profile%20views&color=0e75b6&style=flat" alt="vibe2006" /> </p>
+![Minha foto](https://raw.githubusercontent.com/Vibe2006/Vibe2006/main/ChatGPT%20Image%20Apr%2023%2C%202026%2C%2007_07_10%20PM.png)
 
-- 🌱 I’m currently learning **JavaScript,Cascading Style Sheets,English...**
+**`Desenvolvedor FullStack`**
 
-- 📫 How to reach me **vini.va338@gmail.com**
+Desde cedo, desenvolvi interesse pela área de tecnologia. Aos 16 anos, ingressei em um curso técnico
+integrado ao ensino médio em Desenvolvimento de Sistemas, na ETEC de Guianases, o que consolidou minha afinidade com a área.
+Após a conclusão, iniciei o bacharelado em Sistemas de Informação, na USP, dando continuidade à minha formação.
+Busco atuar de forma colaborativa, sendo uma pessoa comunicativa, proativa e criativa na resolução de
+problemas no setor tecnológico.
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://instagram.com/vini_silvaaugusto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vini_silvaaugusto" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/vini_silvaaugusto/" target="_blank">
+        <img 
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/vinicius-a-65ba5a278/" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Me adicione no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://mail.google.com/mail/?view=cm&to=vini.va338@gmail.com" target="_blank">
+        <img 
+            alt="Gmail" 
+            title="Me envie um email" 
+            src="https://custom-icon-badges.demolab.com/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+    <a href="https://raw.githubusercontent.com/Vibe2006/Curriculo/main/Vinicius%20da%20Silva%20Augusto_20260420_183950_0000.pdf" target="_blank">
+        <img 
+            alt="Currículo" 
+            title="Baixar meu currículo" 
+            src="https://custom-icon-badges.demolab.com/badge/-Curr%C3%ADculo-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
+        />
+    </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vibe2006&show_icons=true&locale=en&layout=compact" alt="vibe2006" /></p>
+### 🤖 Linguagens e Tecnologias
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vibe2006&show_icons=true&locale=en" alt="vibe2006" /></p>
+#### 🎨 Frontend
+<img align="left" alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+<img align="left" alt="Tailwind" title="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+<img align="left" alt="SASS" title="SASS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
+<br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vibe2006&" alt="vibe2006" /></p>
+#### ⚙️ Backend
+<img align="left" alt="PHP" title="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+<img align="left" alt="Laravel" title="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
+<img align="left" alt="Node.js" title="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+<br><br>
 
+#### 📱 Mobile
+<img align="left" alt="React Native" title="React Native" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+<img align="left" alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<br><br>
+
+#### 🗄️ Banco de Dados
+<img align="left" alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="SQL" title="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+<br><br>
+
+#### 🛠️ Ferramentas
+<img align="left" alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="left" alt="ngrok" title="ngrok" width="30px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ngrok.svg"/>
+
+
+<br><br>
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=Vibe2006&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+  />
+
+  <img 
+    align="left" 
+    alt="GitHub Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibe2006&theme=tokyonight&layout=compact&langs_count=8" 
+  />
+</p>
+<br clear="both">
+<br>
+<p align="center">
+  <i>Construindo soluções com tecnologia, criatividade e propósito.</i>
+</p>
